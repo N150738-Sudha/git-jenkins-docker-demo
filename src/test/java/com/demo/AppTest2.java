@@ -30,16 +30,16 @@ public class AppTest2 {
 
 	@Test
 	public void testSum() {
-		assertEquals(5, app.sum(5, 5));
+		assertEquals(10, app.sum(5, 5));
 	}
 	
 	@Test
 	public void testSum1() {
-		assertEquals(2, app.sum(5, 3));
+		assertEquals(8, app.sum(5, 3));
 	}
 
 	@Test
 	public void testSum2() {
-		assertEquals(1, app.sum(1, 3));
+		assertEquals(4, app.sum(1, 3));
 	}
 }

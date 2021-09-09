@@ -22,4 +22,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <build>
+  	<finalName>RevatureDockerDemo</finalName>
+  </build>
 </project>
