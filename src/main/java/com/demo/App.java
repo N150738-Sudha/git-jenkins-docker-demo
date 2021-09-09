@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Welcome to jenkins demo project" );
     }
+    
+    public int sum(int a,int b) {
+    	return a+b;
+    }
 }
